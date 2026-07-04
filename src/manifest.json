@@ -1,0 +1,9 @@
+{
+    "name": "Multi-Larping Tool",
+    "description": "adds fake badges, decorations, nameplates, member since date, fake mutuals, user id capture, preview and search. only you can see this btw lol",
+    "author": "LarpHub",
+    "version": "11.0.0",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
